@@ -52,6 +52,7 @@ odd in some situations.
 #- source
 %doc %{_texmfdistdir}/source/latex/subdepth/subdepth.dtx
 %doc %{_texmfdistdir}/source/latex/subdepth/subdepth.ins
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -62,3 +63,5 @@ odd in some situations.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}

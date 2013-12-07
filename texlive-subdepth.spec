@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-subdepth
 Version:	0.1
-Release:	5
+Release:	6
 Summary:	Unify maths subscript height
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/subdepth

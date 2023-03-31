@@ -1,6 +1,6 @@
 Name:		texlive-subdepth
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Unify maths subscript height
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/subdepth

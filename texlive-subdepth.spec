@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Unify maths subscript height
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/subdepth
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/subdepth
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/subdepth.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/subdepth.doc.r%{version}.tar.xz
